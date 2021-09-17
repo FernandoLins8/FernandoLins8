@@ -1,7 +1,7 @@
 
 # Hello there! I'm Fernando 👋🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/fernando-lins)](https:www.linkedin.com/in/fernando-lins)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/fernando-lins)](https://linkedin.com/in/fernando-lins)
 
 
 * 📚 CS Student at Universidade Federal de Alagoas - UFAL.
