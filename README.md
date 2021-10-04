@@ -9,7 +9,7 @@
 
 ## 🤓 Currently working with or interested in
 
-* 🔭 **Backend web development** with **NodeJS** (also learning a bit of **ReactJS** for front-end as well).
+* 🔭 **Backend web development** with **NodeJS** (learning a bit of **ReactJS** for front-end as well).
 * 🎲 **Databases and DBMS** like **MySQL**, **MongoDB**, **Redis**.
 
 * 💻 **At work** I'm mostly using **Laravel**.
