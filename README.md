@@ -16,6 +16,7 @@
 
 ## You can ask me 😁 (or teach me something 😆) about
 
+
 <div style="display: flex; justify-content: space-evenly">
   <div style="display: inline_block">
     <br>
@@ -41,12 +42,14 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   </div>
 
-  <a href="https://app.daily.dev/FernandoLins8">
-    <img 
-      src="https://github.com/FernandoLins8/FernandoLins8/blob/master/devcard.svg"
-      width="240"
-      alt="Fernando Lins Dev Card"
-    />
-  </a>
+  <div align="right">
+    <a href="https://app.daily.dev/FernandoLins8">
+      <img 
+        src="https://github.com/FernandoLins8/FernandoLins8/blob/master/devcard.svg"
+        width="240"
+        alt="Fernando Lins Dev Card"
+      />
+    </a>
+  </div>
 </div>
 <br>
