@@ -41,15 +41,5 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   </div>
-
-  <div align="right">
-    <a href="https://app.daily.dev/FernandoLins8">
-      <img 
-        src="https://github.com/FernandoLins8/FernandoLins8/blob/master/devcard.svg"
-        width="240"
-        alt="Fernando Lins Dev Card"
-      />
-    </a>
-  </div>
 </div>
 <br>
