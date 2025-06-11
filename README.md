@@ -1,7 +1,7 @@
 
 
 
-## Hi 👋🏻! Let's talk about
+## 👋🏻 Let's talk about
 
 <div style="display: flex; justify-content: space-evenly">
   <div style="display: inline_block">
